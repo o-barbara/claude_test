@@ -1,0 +1,15 @@
+Nagy István	+36301234567	Budapest, Fő utca 12.	Villanyszerelő
+Kiss Réka	+36305551234	Szeged, Tisza Lajos körút 4.	Biológus
+Tóth András	+36307778899	Debrecen, Kossuth tér 3.	Informatikus
+Szabó Júlia	+36304696969	Győr, Baross út 7.	Tanár
+Horváth Gábor	+36302563412	Miskolc, Széchenyi utca 21.	Mérnök
+Varga Lilla	+36304443322	Pécs, Rákóczi út 9.	Grafikus
+Molnár Dániel	+36309998877	Sopron, Várkerület 15.	Fodrász
+Balogh Petra	+36302112121	Nyíregyháza, Bessenyei tér 8.	Ápoló
+Farkas Bence	+36303123123	Kecskemét, Katona József tér 2.	Rendszergazda
+Lakatos Anna	+36306667777	Szombathely, Fő tér 5.	Ügyvéd
+Juhász Márk	+36303737474	Tatabánya, Szent Borbála tér 1.	Autószerelő
+Kovács Noémi	+36305550011	Zalaegerszeg, Köztársaság út 10.	Marketinges
+Papp Krisztián	+36308882255	Eger, Dobó tér 3.	Szakács
+Takács Emese	+36302929292	Veszprém, Óváros tér 6.	Orvos
+Fehér Ádám	+36304949494	Békéscsaba, Andrássy út 14.	Programozó
